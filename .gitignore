@@ -1,0 +1,37 @@
+# Byte-compiled Python files & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter Notebook checkpoints and exports
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.pdf
+*.html
+
+# Data files
+data/*.sqlite
+data/*.csv
+data/*.db
+data/*.zip
+
+# IDE/editor settings
+.vscode/
+.idea/
+.mypy_cache/
+.pytest_cache/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
